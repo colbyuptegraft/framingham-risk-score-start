@@ -1,5 +1,5 @@
 # SMART on FHIR Example App: Framingham Risk Score
-Download the walkthrough guide here: <insert link to walkthrough guide>
+Download the walkthrough guide here: https://bit.ly/dbmifhir2020
 
 # Description
 This repository was originally forked from https://github.com/cerner/smart-on-fhir-tutorial and is the starting point for building an example Framingham Risk Score SMART on FHIR application.
