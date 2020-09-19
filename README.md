@@ -1,15 +1,16 @@
-# SMART on FHIR Example App: Framingham Risk Score
-Download the walkthrough guide here: https://bit.ly/SMART_FHIR
+# SMART on FHIR Example App: BMI Calculator
+Open the Tutorial PDF above to get started
 
 # Description
 This repository was originally forked from https://github.com/cerner/smart-on-fhir-tutorial and is the starting point for building an example Framingham Risk Score SMART on FHIR application.
 
 # Prerequisites
-1) Microsoft Visual Studio Community 2019 (latest edition) or proficiency with similar web integrated development environment (IDE) 
-2) Web browser (Google Chrome preferred)
+1) Microsoft Visual Studio Code or proficiency with similar web integrated development environment (IDE). You will need to run a live server and launch HTML files in Firefox.
+2) Firefox web browser
 3) GitHub account
-4) Internet connection
-5) Familiarity with HTML/CSS/JavaScript (helpful)
+4) Git
+5) Internet connection
+6) Familiarity with HTML/CSS/JavaScript (helpful)
 
 # License
 Copyright 2020 Colby Uptegraft
